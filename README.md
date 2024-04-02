@@ -1,9 +1,12 @@
 <h1>
-    <a href="https://www.dio.me/">
-     <img align="center" width="60px" src="https://hermes.dio.me/lab_projects/badges/dc92e499-6ec6-4c82-af3f-00c40538ca80.png"></a>
-    <span> 
-Análise de Sentimentos com Language Studio </span>
+    <a href="https://www.globo.com/">
+     <img align="center" width="50px" src="https://github.com/manuelfbfilho/Burcador_CEP/blob/main/Fernandes.png?raw=true"></a>
+    <span> Análise de Sentimentos com Azure Language Studio</span>
 </h1>
+
+Repositório criado para treinamento de apresendizado de mais uma funcionalidade do Azure AI, preparatório para a certificação Microsoft Azure AI Fundamentals (+AI-900).
+
+---
 
 ## Analyze sentiment and mine opinions
 Através deste recurso a Inteligência Artificial analiza textos afim de descobrir o sentimento e satisfação do usuário que o escreveu, assim como as principais opiniões.
