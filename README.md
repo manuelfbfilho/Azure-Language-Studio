@@ -4,7 +4,7 @@
     <span> Análise de Sentimentos com Azure Language Studio</span>
 </h1>
 
-Repositório criado para treinamento de apresendizado de mais uma funcionalidade do Azure AI, preparatório para a certificação Microsoft Azure AI Fundamentals (+AI-900).
+Repositório criado para treinamento de aprendizado de mais uma funcionalidade do Azure AI, preparatório para a certificação Microsoft Azure AI Fundamentals (+AI-900).
 
 ---
 
