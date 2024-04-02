@@ -67,12 +67,16 @@ Para esse projeto criei um texto, artigo sobre InteligÊncia Artificial, de form
 ---
 <b>* Texto original - Analisado de Forma Completo</b>
 <img align="right" src="inputs/OriginalText.png" width=""/> 
+
 ...
+
 
 
 ## Considerações Finais  
 
    Tal recurso, de forma comercial, facilita bastante o dia da dia das empresas, uma vez que possibilita saber de forma ágil e simples o sentimento dos clientes no que diz respeito aos seus produtos, o que eles mais gostaram, menos gostaram e a possibilidade de voltarem a consumir o produto ou serviço, possibilitando assim a reação rápida por parte da empresa. Também importante para análise de textos, artigos, reportagens, afim de compreender posicionamentos e tendenciosidades que o escritor pretende para com seus leitores.
+
+
 
 ---
 
