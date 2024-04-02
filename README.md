@@ -13,6 +13,8 @@ Através deste recurso a Inteligência Artificial analiza textos afim de descobr
 
 Para esse projeto criei um texto, artigo sobre InteligÊncia Artificial, de forma que informativa, mas que de acorodo com o texto, pudesse deixar o leitor com dúvidas quanto ao direcionamento de ideia que o redator deixou com o texto, se o artigo apresenta-se de forma positiva ou negativa com a IA. TExto foi criado através ferramenta de IA, o Copilot, utilizando um prompt a solicitar tal artigo com as informações e direcionamentos que o texto devesse proporcionar aos leitores.
 
+## Passo-a-Passo 🎯
+
 ### 01 - Dentro do Language Studio guia *Classify test* clique na opção Analyze sentiment and mine opinions:   
 <img align="right" src="https://raw.githubusercontent.com/alexklenio/DIO-Microsoft-Azure-AI-Fundamentals/main/imagens/DP03%20-%20An%C3%A1lise%20de%20sentimentos/01.png" width=""/> 
 
@@ -30,3 +32,10 @@ Para esse projeto criei um texto, artigo sobre InteligÊncia Artificial, de form
 ## Considerações Finais  
 
  Tal recurso facilita bastante o dia da dia das empresas, uma vez que possibilita saber de forma ágil e simples o sentimento dos clientes no que dis respeito aos seus produtos, o que eles mais gostaram, menos gostaram e a possibilidade de voltarem a consumir o produto ou serviço, possibilitando assim a reação rápida por parte da empresa.
+
+---
+
+## Contatos 
+[![Linkedin](https://img.shields.io/badge/Linkedin-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/manuelfbfilho)
+<br>
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://github.com/manuelfbfilho)
