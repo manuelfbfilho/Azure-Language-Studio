@@ -24,37 +24,48 @@ Para esse projeto criei um texto, artigo sobre InteligÊncia Artificial, de form
 ...
 
 ### 02 - Análise do texto, dividido por sentenças (partes do texto) e apresentando o texto original por completo:
-<b>Sentence 01</b>
-<img align="right" src="inputs/Sentence01.png" width=""/> 
-...
-<b>Sentence 02 e 03</b>
+
+<b>* Sentence 01</b>
+<img align="right" src="inputs/Sentence01.png" width=""/>
+
+---
+<b>* Sentence 02 e 03</b>
 <img align="right" src="inputs/Sentence02e03.png" width=""/> 
-...
-<b>Sentence 04 e 05</b>
+
+---
+<b>* Sentence 04 e 05</b>
 <img align="right" src="inputs/Sentence04e05.png" width=""/> 
-...
-<b>Sentence 06 e 07</b>
+
+---
+<b>* Sentence 06 e 07</b>
 <img align="right" src="inputs/Sentence06e07.png" width=""/> 
-...
-<b>Sentence 08 e 09</b>
+
+---
+<b>* Sentence 08 e 09</b>
 <img align="right" src="inputs/Sentence08e09.png" width=""/> 
-...
-<b>Sentence 10 e 11</b>
+
+---
+<b>* Sentence 10 e 11</b>
 <img align="right" src="inputs/Sentence10e11.png" width=""/> 
-...
-<b>Sentence 12 e 13</b>
+
+---
+<b>* Sentence 12 e 13</b>
 <img align="right" src="inputs/Sentence12e13.png" width=""/> 
-...
-<b>Sentence 14 e 15</b>
+
+---
+<b>* Sentence 14 e 15</b>
 <img align="right" src="inputs/Sentence14e15.png" width=""/> 
-...
-<b>Sentence 16 e 17</b>
+
+---
+<b>* Sentence 16 e 17</b>
 <img align="right" src="inputs/Sentence16e17.png" width=""/> 
-...
-<b>Sentence 18</b>
+
+---
+<b>* Sentence 18</b>
 <img align="right" src="inputs/Sentence18.png" width=""/> 
-...
-<b>Texto original - Analisado de Forma Completo</b>
+
+---
+<b>* Texto original - Analisado de Forma Completo</b>
 <img align="right" src="inputs/OriginalText.png" width=""/> 
 ...
 
