@@ -17,21 +17,51 @@ Para esse projeto criei um texto, artigo sobre InteligÊncia Artificial, de form
 
 ### 01 - Dentro do Language Studio guia *Classify test* clique na opção Analyze sentiment and mine opinions:   
 <img align="right" src="https://raw.githubusercontent.com/alexklenio/DIO-Microsoft-Azure-AI-Fundamentals/main/imagens/DP03%20-%20An%C3%A1lise%20de%20sentimentos/01.png" width=""/> 
-
-...
-
-<img align="right" src="https://raw.githubusercontent.com/alexklenio/DIO-Microsoft-Azure-AI-Fundamentals/main/imagens/DP03%20-%20An%C3%A1lise%20de%20sentimentos/02.png" width=""/> 
 ...
 <img align="right" src="inputs/Azure Language Studio - Analyze Sentiment and opinions 1.png" width=""/> 
 ...
 <img align="right" src="inputs/Azure Language Studio - Analyze Sentiment and opinions 2.png" width=""/> 
 ...
-<img align="right" src="https://raw.githubusercontent.com/alexklenio/DIO-Microsoft-Azure-AI-Fundamentals/main/imagens/DP03%20-%20An%C3%A1lise%20de%20sentimentos/05.png" width="1000"/> 
-...  
+
+### 02 - Análise do texto, dividido por sentenças (partes do texto) e apresentando o texto original por completo:
+<b>Sentence 01</b>
+<img align="right" src="inputs/Sentence01.png" width=""/> 
+...
+<b>Sentence 02 e 03</b>
+<img align="right" src="inputs/Sentence02e03.png" width=""/> 
+...
+<b>Sentence 04 e 05</b>
+<img align="right" src="inputs/Sentence04e05.png" width=""/> 
+...
+<b>Sentence 06 e 07</b>
+<img align="right" src="inputs/Sentence06e07.png" width=""/> 
+...
+<b>Sentence 08 e 09</b>
+<img align="right" src="inputs/Sentence08e09.png" width=""/> 
+...
+<b>Sentence 10 e 11</b>
+<img align="right" src="inputs/Sentence10e11.png" width=""/> 
+...
+<b>Sentence 12 e 13</b>
+<img align="right" src="inputs/Sentence12e13.png" width=""/> 
+...
+<b>Sentence 14 e 15</b>
+<img align="right" src="inputs/Sentence14e15.png" width=""/> 
+...
+<b>Sentence 16 e 17</b>
+<img align="right" src="inputs/Sentence16e17.png" width=""/> 
+...
+<b>Sentence 18</b>
+<img align="right" src="inputs/Sentence18.png" width=""/> 
+...
+<b>Texto original - Analisado de Forma Completo</b>
+<img align="right" src="inputs/OriginalText.png" width=""/> 
+...
+
 
 ## Considerações Finais  
 
- Tal recurso facilita bastante o dia da dia das empresas, uma vez que possibilita saber de forma ágil e simples o sentimento dos clientes no que dis respeito aos seus produtos, o que eles mais gostaram, menos gostaram e a possibilidade de voltarem a consumir o produto ou serviço, possibilitando assim a reação rápida por parte da empresa.
+   Tal recurso, de forma comercial, facilita bastante o dia da dia das empresas, uma vez que possibilita saber de forma ágil e simples o sentimento dos clientes no que diz respeito aos seus produtos, o que eles mais gostaram, menos gostaram e a possibilidade de voltarem a consumir o produto ou serviço, possibilitando assim a reação rápida por parte da empresa. Também importante para análise de textos, artigos, reportagens, afim de compreender posicionamentos e tendenciosidades que o escritor pretende para com seus leitores.
 
 ---
 
