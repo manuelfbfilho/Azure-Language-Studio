@@ -11,6 +11,8 @@ Repositório criado para treinamento de aprendizado de mais uma funcionalidade d
 ## Analyze sentiment and mine opinions
 Através deste recurso a Inteligência Artificial analiza textos afim de descobrir o sentimento e satisfação do usuário que o escreveu, assim como as principais opiniões.
 
+Para esse projeto criei um texto, artigo sobre InteligÊncia Artificial, de forma que informativa, mas que de acorodo com o texto, pudesse deixar o leitor com dúvidas quanto ao direcionamento de ideia que o redator deixou com o texto, se o artigo apresenta-se de forma positiva ou negativa com a IA. TExto foi criado através ferramenta de IA, o Copilot, utilizando um prompt a solicitar tal artigo com as informações e direcionamentos que o texto devesse proporcionar aos leitores.
+
 ### 01 - Dentro do Language Studio guia *Classify test* clique na opção Analyze sentiment and mine opinions:   
 <img align="right" src="https://raw.githubusercontent.com/alexklenio/DIO-Microsoft-Azure-AI-Fundamentals/main/imagens/DP03%20-%20An%C3%A1lise%20de%20sentimentos/01.png" width=""/> 
 
